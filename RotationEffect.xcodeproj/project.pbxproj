@@ -11,6 +11,7 @@
 		BC236D1F263E915700975CC9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC236D1E263E915700975CC9 /* ContentView.swift */; };
 		BC236D21263E915700975CC9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC236D20263E915700975CC9 /* Assets.xcassets */; };
 		BC236D24263E915700975CC9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC236D23263E915700975CC9 /* Preview Assets.xcassets */; };
+		BC236D2C263E92F500975CC9 /* Rotation002.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC236D2B263E92F500975CC9 /* Rotation002.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		BC236D20263E915700975CC9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BC236D23263E915700975CC9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		BC236D25263E915700975CC9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BC236D2B263E92F500975CC9 /* Rotation002.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rotation002.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				BC236D1C263E915700975CC9 /* RotationEffectApp.swift */,
 				BC236D1E263E915700975CC9 /* ContentView.swift */,
+				BC236D2B263E92F500975CC9 /* Rotation002.swift */,
 				BC236D20263E915700975CC9 /* Assets.xcassets */,
 				BC236D25263E915700975CC9 /* Info.plist */,
 				BC236D22263E915700975CC9 /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BC236D1F263E915700975CC9 /* ContentView.swift in Sources */,
+				BC236D2C263E92F500975CC9 /* Rotation002.swift in Sources */,
 				BC236D1D263E915700975CC9 /* RotationEffectApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
